@@ -205,14 +205,14 @@ function App() {
               <p>President's Lister</p>
               <p className="subtitle">
                 La Verdad Christian College <br />
-                Bachelor of Science in Information Systems 2nd Year
+                B.S in Information Systems 2nd Year
               </p>
               <hr />
               <h6 className="title text-danger">2022 - 2023</h6>
               <p>President's Lister</p>
               <p className="subtitle">
                 La Verdad Christian College <br />
-                Bachelor of Science in Information Systems 1st Year
+                B.S in Information Systems 1st Year
               </p>
             </div>
           </div>
@@ -258,11 +258,11 @@ function App() {
                 La Verdad Christian College.
               </p>
               <hr />
-              <h6 className="title text-danger">2024 - Present</h6>
-              <p>Class President</p>
+              <h6 className="title text-danger">2019 - 2020</h6>
+              <p>Lieutenant Colonel</p>
               <p className="subtitle">
-                BS Information Systems 3 <br />
-                La Verdad Christian College.
+                Executive Offier of CAT Officers Batch 2019-2020 <br />
+                La Verdad Christian School.
               </p>
             </div>
           </div>
